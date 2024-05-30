@@ -1,0 +1,12 @@
+.center_div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+}
+
+.chat {
+    display: flex;
+    flex-direction: row;
+}
